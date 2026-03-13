@@ -2,7 +2,7 @@ class FfmpegFcvvdp < Formula
   desc "FFmpeg with the fcvvdp perceptual quality filter patch"
   homepage "https://github.com/halidecx/fcvvdp"
   url "https://github.com/FFmpeg/FFmpeg/archive/refs/tags/n8.0.tar.gz"
-  sha256 "dd4030dbfdc34d9ff255a116bdd1caade42500ac2981efa27f8b151cc54c7b9e"
+  sha256 "632b5ce8a4bc7a26947e154f1e1c2bc8e749ac7f206f9dd3bab2ae79e875d4d2"
   license "GPL-2.0-or-later"
 
   depends_on "pkgconf" => :build
